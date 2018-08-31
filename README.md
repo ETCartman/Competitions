@@ -8,7 +8,7 @@
 
 比赛 | 等级 | 报名时间 | 结束时间 | 项目 | 状态 | 总结 
 --- | --- | --- | --- | --- | --- | ---|
-[“中国软件杯”大学生软件设计大赛](http://www.cnsoftbei.com/) | 国家级B类 | 2018.2 | 2018.9 | [网店工商信息图片文字提取](http://www.cnsoftbei.com/bencandy.php?fid=151&aid=1611) | 进入第二轮决赛, 28号南京
+[“中国软件杯”大学生软件设计大赛](http://www.cnsoftbei.com/) | 国家级B类 | 2018.2 | 2018.9 | [网店工商信息图片文字提取](http://www.cnsoftbei.com/bencandy.php?fid=151&aid=1611) | 一等奖
 [2018年全国大学生信息安全竞赛](http://www.ciscn.cn/competition/securityCompetition?compet_id=26) | 国家级C类 | 2018.3 | 2018.8 | 恶意网页检测系统　| 三等奖
 [2018年网络技术挑战赛](http://http://netcontest.moocollege.com/) | 华东区 | 2018.3 | 2018.8 | 恶意网页检测系统　| 三等奖
 [基于人工智能的药物分子筛选](http://www.dcjingsai.com/common/cmpt/%E5%9F%BA%E4%BA%8E%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E8%8D%AF%E7%89%A9%E5%88%86%E5%AD%90%E7%AD%9B%E9%80%89_%E6%8E%92%E8%A1%8C%E6%A6%9C.html) | None | 2018.4 | 2018.5 | 打榜 | [优胜奖(Top8)](https://github.com/ETCartman/Competitions/blob/master/imgs/dc2018.pdf)
