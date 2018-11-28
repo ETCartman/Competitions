@@ -13,7 +13,7 @@
 [第八届“中国软件杯”大学生软件设计大赛](http://www.cnsoftbei.com/) | 国家级B类 | - | - | UNKNOWN | 比赛未开始报名 | - 
 [第十二届中国大学生信息安全竞赛](http://www.ciscn.cn/) | 国家级 | - | - | UNKNOWN | 比赛未开始报名 | -
 [网络技术挑战赛](http://www.c4best.cn/sy) | 国家级Ｂ类 | - | - | UNKNOWN | 比赛未开始报名　| - 
-[全国大学生物联网设计竞赛](http://210.39.2.52/ac/home/home/website/wn/58410.html) | 国家级Ｃ类　| - | - | INKNOWN | 比赛未开始报名　| -
+[全国大学生物联网设计竞赛](http://210.39.2.52/ac/home/home/website/wn/58410.html) | 国家级Ｃ类　| - | - | UNKNOWN | 比赛未开始报名　| -
 
 ## 大三上学期
 
